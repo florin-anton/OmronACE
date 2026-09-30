@@ -20,4 +20,4 @@ After executing the robot application, don't forget to reset the position of the
 
 Please see the following video tutorial for additional information:
 
- 
+ https://www.youtube.com/watch?v=FgzygTl5EYY
