@@ -1,3 +1,5 @@
+#Created by Florin ANTON florin_anton@ymail.com
+
 This script allows you to enable simulation in Omron ACE 3.8.3.250, in this way you will be able to see how the robot handles Box type objects.
 
 In order to use the script you must create a new folder under SmartController 1 having the exact name: Visualization Parameters.
@@ -20,4 +22,4 @@ After executing the robot application, don't forget to reset the position of the
 
 Please see the following video tutorial for additional information:
 
- https://www.youtube.com/watch?v=FgzygTl5EYY
+https://www.youtube.com/watch?v=FgzygTl5EYY 
